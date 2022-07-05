@@ -12,11 +12,13 @@
 
 
 #### Installing the dependencies:
-```pip3.10 install -r requirements.txt```
+1. ```pip3.10 install -r requirements.txt```
 
 
 #### Setting up the database:
 1. Download [postgres.app](https://postgresapp.com/) with postgresql 14
+2. To access the database in the terminal open postgres app from the top ribbon and slect your database server from left panel
+3. Double click on the *postgres* DB
 
 #### Run the server:
 1. ```python manage.py runserver```
