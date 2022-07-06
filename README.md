@@ -1,6 +1,6 @@
 # book-your-venue-be
 
-### All instructions are for Mac users
+### Project setup instructions are for Mac users only
 
 #### Python virtual environment setup:
 
